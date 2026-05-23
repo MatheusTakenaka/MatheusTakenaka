@@ -5,7 +5,7 @@
 <h2>Um pouco sobre mim</h2>
 
 - 📈 Buscando cada vez mais evoluir dentro da área.
-- 👨‍💻 Aprendendo Front-end.
+- 👨‍💻 Desenvolvedor Front-end.
 - 🎓Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Anhembi Morumbi Sorocaba | Campus Athon</strong>
 
 <h2>Meus conhecimentos</h2>
