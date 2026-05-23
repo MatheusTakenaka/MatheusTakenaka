@@ -6,7 +6,6 @@ Desenvolvedor Front-End focado em interfaces modernas, performance e experiênci
 <h2>Um pouco sobre mim</h2>
 
 - 📈 Buscando cada vez mais evoluir dentro da área.
-- 👨‍💻 Desenvolvedor Front-end.
 - 🎓Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Anhembi Morumbi Sorocaba | Campus Athon</strong>
 
 <h2>Meus conhecimentos</h2>
@@ -20,12 +19,3 @@ Desenvolvedor Front-End focado em interfaces modernas, performance e experiênci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-## 📈 Estatísticas
-
-## 📈 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTakenaka&show_icons=true&theme=tokyonight)
-
-</div>
