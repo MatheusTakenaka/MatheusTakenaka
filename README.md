@@ -1,5 +1,6 @@
-<h2>Olá me chamo Matheus 👋</h2> 
+# Olá me chamo Matheus Takenaka 
 
+Desenvolvedor Front-End focado em interfaces modernas, performance e experiência do usuário.
 
 
 <h2>Um pouco sobre mim</h2>
@@ -19,4 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
+## 📈 Estatísticas
 
+## 📈 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTakenaka&show_icons=true&theme=tokyonight)
+
+</div>
